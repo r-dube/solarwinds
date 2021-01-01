@@ -1,7 +1,7 @@
 ---
 title: Introduction to the Solarwinds Project
 ---
-The Solarwinds project seeks to analyze the 2020 Solarwinds hack. The Solarwinds hack appears to be a large-scale hack with several intertwined storylines. During the course of this project, we will attempt to disentangle these storylines, create a picture of that which is known and outline the unknowns.
+The Solarwinds project seeks to analyze the 2020 Solarwinds hack. The Solarwinds hack appears to be a large-scale hack with several intertwined storylines. During this project, we will attempt to disentangle these storylines, create a picture of that which is known, and outline the unknowns.
 
 The analysis is presented as "blog" posts and interprets publicly available information in news articles and corporate blog posts.
 
