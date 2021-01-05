@@ -2,7 +2,7 @@
 title: FireEye's News Timeline
 ---
 
-In this post, we will summarize news on the Solarwind hack from FireEye's perspective.
+In this post, we will summarize news on the SolarWinds hack from FireEye's perspective.
 
 ### Decemeber 8, 2020 [^feye20201208], [^feye20201208-2]
 * Announced breach, including theft of red-team tools
