@@ -1,1 +1,1 @@
-This blog and the associated Github repository discuss the Solarwinds hack. 
+This blog and the associated Github repository discuss the SolarWinds hack. 
