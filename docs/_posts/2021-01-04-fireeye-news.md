@@ -32,7 +32,7 @@ In this post, we will summarize news on the Solarwind hack from FireEye's perspe
 * Announced that Mandiant Advantage threat intelligence feed includes information on UNC2452, Sunburst, Tear Drop, and Cobalt Strike beaconing
 
 ### December 24, 2020 [^feye20201224]
-* Provided additional details on Suburst's mechanisms to evade detection; included further details on Sunburst internals
+* Provided additional details on Suburst's mechanisms to evade detection; included further information about Sunburst internals
 * Announced work with Go Daddy and Microsoft to take over one of the DNS domains used by Sunburst to "sinkhole" command-and-control traffic
 
 ### References
