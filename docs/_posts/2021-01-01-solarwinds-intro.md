@@ -1,7 +1,7 @@
 ---
-title: Introduction to the Solarwinds Project
+title: Introduction to the SolarWinds Project
 ---
-The Solarwinds project seeks to analyze the 2020 Solarwinds hack. The Solarwinds hack appears to be a large-scale hack with several intertwined storylines. During this project, we will attempt to disentangle these storylines, create a picture of that which is known, and outline the unknowns.
+The SolarWinds project seeks to analyze the 2020 SolarWinds hack. The SolarWinds hack appears to be a large-scale hack with several intertwined storylines. During this project, we will attempt to disentangle these storylines, create a picture of that which is known, and outline the unknowns.
 
 The analysis is presented as "blog" posts and interprets publicly available information in news articles and corporate blog posts.
 
@@ -15,6 +15,6 @@ The analysis is presented as "blog" posts and interprets publicly available info
 1. notes/
    * This directory contains lab notes compiled during the analysis. These notes are used as raw material for blog posts.
 1. LICENSE
-   * This is the license under which all the work in the Solarwinds project is made available.
+   * This is the license under which all the work in the SolarWinds project is made available.
 1. README.md
    * This is the top-level markdown file that describes the project. Since all documentation is being maintained as blog posts, the file points to the blog.
