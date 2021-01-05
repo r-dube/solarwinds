@@ -4,7 +4,7 @@ title: FireEye's News Timeline
 
 In this post, we will summarize news on the SolarWinds hack from FireEye's perspective.
 
-### Decemeber 8, 2020 [^feye20201208], [^feye20201208-2]
+### Dec 8, 2020 [^feye20201208], [^feye20201208-2]
 * Announced breach, including theft of red-team tools
 * (Most) red-team tools were previously released as open-source
 * Tools did not include any zero-day vulnerabilities
@@ -13,7 +13,7 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 * Indicated that attackers were after information on FireEye's government customers
 * Asserted that the attackers were state-sponsored, sophisticated and well-resourced 
 
-### December 13, 2020 [^feye20201213], [^feye20201213-2]
+### Dec 13, 2020 [^feye20201213], [^feye20201213-2]
 * Named attackers as UNC2452
 * Named SolarWinds' Orion product as the carrier for the "supply chain" attack
 * Named the carried malware (previously unseen) as SUNBURST
@@ -24,14 +24,14 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 * Indicated that attack campaign may have started as early as Spring 2020
 * Announced cooperation with SolarWinds and FBI
 
-### December 17, 2020 [^feye20201217]
+### Dec 17, 2020 [^feye20201217]
 * Provided an explanation of the UNC designation
 * Explained FireEye's attribution process
 
-### December 18, 2020 [^feye20201218]
+### Dec 18, 2020 [^feye20201218]
 * Announced that Mandiant Advantage threat intelligence feed includes information on UNC2452, SUNBURST, Tear Drop, and Cobalt Strike beaconing
 
-### December 24, 2020 [^feye20201224]
+### Dec 24, 2020 [^feye20201224]
 * Provided additional details on Suburst's mechanisms to evade detection; included further information about SUNBURST internals
 * Announced work with Go Daddy and Microsoft to take over one of the DNS domains used by SUNBURST to "sinkhole" command-and-control traffic
 
