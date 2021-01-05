@@ -13,7 +13,7 @@ The dates may be slightly off for some news items due to how SolarWinds updates 
 
 ### Decemeber 15, 2020 
 * Reduced the upper bound of the number of customers affected to 18,000
-* Identifed the Orion product's build-system as the area of compromise
+* Identified the Orion product's build-system as the area of compromise
 * Recognized SUNBURST as the malware injected into Orion
 * Identified SUNBURST IOCs (for customers to pursue)
 
