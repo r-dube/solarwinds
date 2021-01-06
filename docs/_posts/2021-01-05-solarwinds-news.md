@@ -27,7 +27,7 @@ The dates may be slightly off for some news items due to how SolarWinds updates 
 
 #### Dec 24, 2020 
 * Identified SUPERNOVA as additional malware used in the attack; SUPERNOVA is designed to appear as part of the Orion product
-* Indicated that SUPERNOVA exploits an additional vulnerability in Orion
+* Indicated that SUPERNOVA exploits an additional vulnerability in Orion (This additional vulnerability is CVE-2020-10148. It allows attackers to execute remote code on Orion [^zdnet20201230])
 
 #### Dec 26, 2020 
 * Listed mitigations in the case that an Orion upgrade is not possible
@@ -49,3 +49,4 @@ The dates may be slightly off for some news items due to how SolarWinds updates 
 [^solarwinds1]: [https://www.solarwinds.com/securityadvisory/faq](https://www.solarwinds.com/securityadvisory/faq)
 [^solarwinds2]: [https://www.solarwinds.com/securityadvisory](https://www.solarwinds.com/securityadvisory)
 [^solarwinds3]: [https://www.solarwinds.com/certadvisory](https://www.solarwinds.com/certadvisory)
+[^zdnet20201230]: [https://www.zdnet.com/article/cisa-updates-solarwinds-guidance-tells-us-govt-agencies-to-update-right-away/](https://www.zdnet.com/article/cisa-updates-solarwinds-guidance-tells-us-govt-agencies-to-update-right-away/)
