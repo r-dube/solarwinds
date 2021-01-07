@@ -11,14 +11,18 @@ title: Microsoft's News Timeline
 * Recommended defenses for organizations using SolarWinds Orion
 
 #### Dec 15, 2020 [^msft20201215], [^msft20201215-2]
+* Released threat intelligence for Azure Defender
+* Announced that starting Dec 16, that Microsoft Defender (endpoint protection) will start blocking SolarWinds binaries known to contain SUNBURST
 
 #### Dec 16, 2020 [^msft20201216]
+* Posted tutorial post-compromise hunting of attacker activity using Azure Sentinel (cloud-based SIEM)
 
 #### Dec 17, 2020 [^msft20201217]
 * Asserted that nation-state actors are becoming more sophisticated and determined
 * Indicated that 40 customers in 8 countries had been targeted by the malware and notified (by Microsoft)
 
 #### Dec 18, 2020 [^msft20201218], [^msft20201218-2]
+* Recommended steps to protect Microsoft (office 365) cloud deployments from on-premise compormises
 
 #### Dec 21, 2020 [^msft20201221], [^msft20201221-2], [^msft20201221-3]
 
