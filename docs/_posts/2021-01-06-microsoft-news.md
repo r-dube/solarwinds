@@ -3,12 +3,20 @@ title: Microsoft's News Timeline
 ---
 
 #### Dec 13, 2020 [^msft20201213], [^msft20201213-2]
+* Described the attacker as a nation-state
+* Used the term Solorigate for the malware (FireEye and SolarWinds use the term SUNBURST)
+* Described steps taken by the attacker to use the SolarWinds compromise
+* Detailed how the compromise enables the attacker to obtain permissions to Office365 email
+* Published IOCs
+* Recommended defenses for organizations using SolarWinds Orion
 
 #### Dec 15, 2020 [^msft20201215], [^msft20201215-2]
 
 #### Dec 16, 2020 [^msft20201216]
 
 #### Dec 17, 2020 [^msft20201217]
+* Asserted that nation-state actors are becoming more sophisticated and determined
+* Indicated that 40 customers in 8 countries had been targeted by the malware and notified (by Microsoft)
 
 #### Dec 18, 2020 [^msft20201218], [^msft20201218-2]
 
