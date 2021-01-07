@@ -3,7 +3,7 @@ title: Microsoft's News Timeline
 ---
 In this post, we will summarize news on the SolarWinds hack from Microsoft's perspective.
 
-Microsoft updates posts in place, but maintains the original date of the post. In many instances Microsoft also includes revision histories on its posts. In the summary below, we list sources by their original post date.
+Microsoft updates posts in place but maintains the original date of the post. In many instances, Microsoft also includes revision histories on its posts. In the notes below, we list sources by their original post date.
 
 #### Dec 13, 2020 [^msft20201213], [^msft20201213-2]
 * Described the attacker as a nation-state
@@ -15,7 +15,7 @@ Microsoft updates posts in place, but maintains the original date of the post. I
 
 #### Dec 15, 2020 [^msft20201215], [^msft20201215-2]
 * Released threat intelligence for Azure Defender
-* Announced that starting Dec 16, that Microsoft Defender (endpoint protection suite) will start blocking SolarWinds binaries known to contain SUNBURST
+* Announced that starting Dec 16, that Microsoft Defender (endpoint protection suite) will begin blocking SolarWinds binaries known to contain SUNBURST
 
 #### Dec 16, 2020 [^msft20201216]
 * Posted tutorial post-compromise hunting of attacker activity using Azure Sentinel (cloud-based SIEM)
@@ -52,7 +52,7 @@ Microsoft updates posts in place, but maintains the original date of the post. I
 [^msft20201218]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754)
 [^msft20201218-2]: [https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 [^msft20201221]: [https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
-[^msft20201221-2]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610]
+[^msft20201221-2]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 [^msft20201221-3]: [https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/](https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/)
 [^msft20201222]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
 [^msft20201228]: [https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/](https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/)
