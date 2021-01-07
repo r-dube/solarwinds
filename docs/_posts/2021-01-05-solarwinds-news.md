@@ -4,15 +4,15 @@ title: SolarWinds' News Timeline
 
 In this post, we will summarize news on the SolarWinds hack from SolarWinds' perspective.
 
-Since SolarWinds overwrites older posts with new ones when the posts are on the same topic (while updating the date), the timeline below does not carry references to the source material. We have extracted the timeline from the following sources: [^solarwinds1], [^solarwinds2], [^solarwinds3]. 
+Since SolarWinds overwrites older posts with new ones when the posts are on the same topic (while updating the date), the timeline below does not carry references to the source material. We have extracted the timeline from the following sources: [^solarwinds1], [^solarwinds2], [^solarwinds3], [^solarwinds4]. 
 
 The dates may be slightly off for some news items due to how SolarWinds updates its posts.
 
 #### Dec 14, 2020 
-* Stated that up to 33,000 customers (those with active SolarWinds support contracts) may have been affected by the attack
+* Stated that up to 33,000 customers may have been affected by the attack (33,000 appears to be the number of organzations with active support contracts for Orion)
 
 #### Dec 15, 2020 
-* Reduced the upper bound of the number of customers affected to 18,000
+* Reduced the upper bound of the number of customers affected to 18,000 (the lower number appears to be the number of organizations with active support contracts for Orion that also downloaded the infected version of Orion)
 * Identified the Orion product's build-system as the area of compromise
 * Recognized SUNBURST as the malware injected into Orion
 * Identified SUNBURST IOCs (for customers to pursue)
@@ -45,8 +45,13 @@ The dates may be slightly off for some news items due to how SolarWinds updates 
 #### Jan 4, 2020
 * Minor updates to a summary of CISA alerts
 
+#### Jan 6, 2020
+* Listed instructions for an Orion administrator to configure a new Orion system built on the latest version of Orion (version 2020.2.1 HF 2) but still utilize data from the old Orion database to help “bootstrap” the new Orion instance to behave like the old Orion instance (but without SUNBURST or SUPERNOVA).
+
+
 ### References
 [^solarwinds1]: [https://www.solarwinds.com/securityadvisory/faq](https://www.solarwinds.com/securityadvisory/faq)
 [^solarwinds2]: [https://www.solarwinds.com/securityadvisory](https://www.solarwinds.com/securityadvisory)
 [^solarwinds3]: [https://www.solarwinds.com/certadvisory](https://www.solarwinds.com/certadvisory)
+[^solarwinds4]: [https://www.solarwinds.com/upgrading-your-environment](https://www.solarwinds.com/upgrading-your-environment)
 [^zdnet20201230]: [https://www.zdnet.com/article/cisa-updates-solarwinds-guidance-tells-us-govt-agencies-to-update-right-away/](https://www.zdnet.com/article/cisa-updates-solarwinds-guidance-tells-us-govt-agencies-to-update-right-away/)
