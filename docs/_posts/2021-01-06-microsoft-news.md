@@ -1,6 +1,9 @@
 ---
 title: Microsoft's News Timeline
 ---
+In this post, we will summarize news on the SolarWinds hack from Microsoft's perspective.
+
+Microsoft updates posts in place, but maintains the original date of the post. In many instances Microsoft also includes revision histories on its posts. In the summary below, we list sources by their original post date.
 
 #### Dec 13, 2020 [^msft20201213], [^msft20201213-2]
 * Described the attacker as a nation-state
@@ -12,7 +15,7 @@ title: Microsoft's News Timeline
 
 #### Dec 15, 2020 [^msft20201215], [^msft20201215-2]
 * Released threat intelligence for Azure Defender
-* Announced that starting Dec 16, that Microsoft Defender (endpoint protection) will start blocking SolarWinds binaries known to contain SUNBURST
+* Announced that starting Dec 16, that Microsoft Defender (endpoint protection suite) will start blocking SolarWinds binaries known to contain SUNBURST
 
 #### Dec 16, 2020 [^msft20201216]
 * Posted tutorial post-compromise hunting of attacker activity using Azure Sentinel (cloud-based SIEM)
@@ -22,15 +25,21 @@ title: Microsoft's News Timeline
 * Indicated that 40 customers in 8 countries had been targeted by the malware and notified (by Microsoft)
 
 #### Dec 18, 2020 [^msft20201218], [^msft20201218-2]
-* Recommended steps to protect Microsoft (office 365) cloud deployments from on-premise compormises
+* Recommended steps to protect customers with Microsoft cloud deployments from on-premise compromises
 
 #### Dec 21, 2020 [^msft20201221], [^msft20201221-2], [^msft20201221-3]
+* Identified mechanisms to identify SUNBURST IOCs for Identity providers and their customers
+* Posted steps to recover from systemic identity compromises
+* Created a one-stop-shop resource center for defensive responses related to SUNBURST
 
 #### Dec 22, 2020 [^msft20201222]
+* Recommended step to unearth indicators of compromise using Azure Monitor (a telemetry collection and monitoring service)
 
 #### Dec 28, 2020 [^msft20201228]
+* Published a guide on using Microsoft 365 Defender (endpoint and cloud access protection suite) to identify, investigate and respond to SUNBURST
 
 #### Dec 31, 2020 [^msft20201231]
+* Declared that the nation-state actor had breached Microsoft's internal systems to the point of viewing Microsoft's code-base(s) using compromised Microsoft-internal accounts
 
 
 ### References
