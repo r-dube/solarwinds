@@ -8,7 +8,7 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 * Announced breach, including theft of red-team tools
 * (Most) red-team tools were previously released as open-source
 * Tools did not include any zero-day vulnerabilities
-* Relead rules (signatures) to the public that detect the attack's components
+* Released rules (signatures) to the public that detect the attack's components
 * Announced ongoing cooperation with Microsoft
 * Indicated that attackers were after information on FireEye's government customers
 * Asserted that the attackers were state-sponsored, sophisticated and well-resourced 
