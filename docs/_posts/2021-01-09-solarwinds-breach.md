@@ -8,7 +8,7 @@ SolarWinds used software (TeamCity) from a Czech company called JetBrains ([^jet
 
 Further, JetBrains' founders and current CEO are of Russian origin ([^jetbrains2]). The company maintains multiple offices in Russia ([^jetbrains3]) - Moscow, St. Petersburg, Novosibirsk - making the company susceptible to pressure from the Russian government.
 
-The New York Times ([^nyt20210106]), reports that investigators are looking into TeamCity.
+The New York Times ([^nyt20210106]) reports that investigators are looking into TeamCity.
 
 At the time, the evidence against JetBrains is circumstantial at best. None of SolarWinds, CISA, or FBI have identified JetBrains as the source of the SolarWinds breach. So far, no technical information regarding the use of TeamCity for the breach has been made available.
 
