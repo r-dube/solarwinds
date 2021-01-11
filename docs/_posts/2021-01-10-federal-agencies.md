@@ -13,15 +13,15 @@ In this post, we document the list of US Federal agencies known to have been bre
 * State department
 * Department of agriculture
 * Department of health and human services (HHS)
-** National Insitutes of Health (NIH)
+  * National Insitutes of Health (NIH)
 
 #### Dec 17, 2020 [^politico20201217], [^politico20201217-2]
 * Department of Energy (DOE)
-** Office of Secure Transporation at National Nuclear Security Administration (NNSA)
-** Federal Energy Regulatory Commission (FERC)
-** Sandia national laboratory
-** Los Almos National Laboratory
-** Richland Field Office
+  * Office of Secure Transporation at National Nuclear Security Administration (NNSA)
+  * Federal Energy Regulatory Commission (FERC)
+  * Sandia national laboratory
+  * Los Almos National Laboratory
+  * Richland Field Office
 
 #### Jan 6, 2021 [^politico20210106]
 * Department of justice (DOJ)
