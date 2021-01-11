@@ -1,7 +1,6 @@
 ---
 title: US Federal Agencies Breached
 ---
-
 In this post, we document the list of US Federal agencies known to have been breached by the SolarWinds hack.
 
 #### Day 13, 2020 [^politico20201213] 
@@ -13,7 +12,8 @@ In this post, we document the list of US Federal agencies known to have been bre
 * Department of defense (DOD)
 * State department
 * Department of agriculture
-* National Insitute of Health (NIH)
+* Department of health and human services (HHS)
+** National Insitutes of Health (NIH)
 
 #### Dec 17, 2020 [^politico20201217], [^politico20201217-2]
 * Department of Energy (DOE)
