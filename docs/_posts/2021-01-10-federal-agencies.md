@@ -5,7 +5,8 @@ In this post, we document the list of US Federal agencies known to have been bre
 
 #### Day 13, 2020 [^politico20201213] 
 * Treasury department
-* Commerce department - National Telecommunications and Information Administration (NTIA)
+* Commerce department 
+  * National Telecommunications and Information Administration (NTIA)
 
 #### Dec 14, 2020 [^politico20201214], [^nyt20201214], [^wapo20201214]
 * Department of homeland security (DHS)
