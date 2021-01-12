@@ -9,7 +9,7 @@ Since SolarWinds overwrites older posts with new ones when the posts are on the 
 In addition to the posts referred to above, SolarWinds uses blog posts that are not overwritten. Where the news item was extracted from such a blog post, the reference is included with the date.
 
 #### Dec 14, 2020 
-* Stated that up to 33,000 customers may have been affected by the attack (33,000 appears to be the number of organzations with active support contracts for Orion)
+* Stated that up to 33,000 customers may have been affected by the attack (33,000 appears to be the number of organizations with active support contracts for Orion)
 
 #### Dec 15, 2020 
 * Reduced the upper bound of the number of customers affected to 18,000 (the lower number appears to be the number of organizations with active support contracts for Orion that also downloaded the infected version of Orion)
@@ -50,19 +50,19 @@ In addition to the posts referred to above, SolarWinds uses blog posts that are 
 * Minor updates to a summary of CISA alerts
 
 #### Jan 6, 2021
-* Listed instructions for an Orion administrator to configure a new Orion system built on the latest version of Orion (version 2020.2.1 HF 2) but still utilize data from the old Orion database to help “bootstrap” the new Orion instance to behave like the old Orion instance (but without SUNBURST or SUPERNOVA).
+* Listed instructions for an Orion administrator to configure a new Orion system built on the latest version of Orion (version 2020.2.1 HF 2), yet utilize data from the old Orion database to help “bootstrap” the new Orion instance to behave like the old Orion instance (but without SUNBURST or SUPERNOVA)
 
 #### Jan 7, 2021 [^solarwinds20210107]
 * Posted details of how security and SolarWinds would be improved in the future
-* Conceded (implicitly) that access control for the build environment was weak and Orion builds may not be easily reproducible
+* Conceded (implicitly) that access control for the build-environment was weak and Orion builds may not be easily reproducible
 
 #### Jan 11, 2021 [^solarwinds20210111]
-* Named CrowdStrike as the vendor conducting post breach analysis
+* Named CrowdStrike as the vendor conducting post-breach analysis
 * Recognized that an attacker would have to find a way to avoid firewalls to exploit SUNBURST implanted into Orion
-* Indicated that Sep 4, 2019 was the earliest known date of the attacker accessing SolarWinds' systems
-* Indicated that the attacker tested their ability to insert code during the Orion build process between Sep 12, 2019 and Nov 4, 2019
-* Asserted that the attacker removed SUNBURST from the build environment on Jun 4, 2020
-* Identified two previous customer support incidents (Nov 2020 and earlier) that could have been related to SUNBURST, but were not determined to be so at the time
+* Indicated that Sep 4, 2019, was the earliest known date of the attacker accessing SolarWinds' systems
+* Indicated that the attacker tested their ability to insert code during the Orion build process between Sep 12, 2019, and Nov 4, 2019
+* Asserted that the attacker removed SUNBURST from the build-environment on Jun 4, 2020
+* Identified two previous customer support incidents (Nov 2020 and earlier) that could have been related to SUNBURST but were not determined to be so at the time
 
 ### References
 [^solarwinds1]: [https://www.solarwinds.com/securityadvisory/faq](https://www.solarwinds.com/securityadvisory/faq)
