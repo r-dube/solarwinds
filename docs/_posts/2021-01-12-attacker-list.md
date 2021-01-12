@@ -1,7 +1,7 @@
 ---
 title: Attacker List and Name Equivalences
 ---
-Different security companies refer to (presumably) the same attacker using their own naming scheme. In this post we list the names used by security companies for the perpetrators of the SolarWind hack, along with name equivalences where applicable.
+Different security companies refer to (presumably) the same attacker using their own naming scheme. In this post, we list the names used by security companies for the SolarWinds hack perpetrators, along with name equivalences where applicable.
 
 #### APT28
 * The APT28 designation is used by FireEye [^feye-apt]
