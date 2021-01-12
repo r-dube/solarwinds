@@ -4,12 +4,12 @@ title: Attacker List and Name Equivalences
 Different security companies refer to (presumably) the same attacker using their own naming scheme. In this post we list the names used by security companies for the perpetrators of the SolarWind hack, along with name equivalences where applicable.
 
 #### APT28
-* The APT28 designation is used by FireEye [^fireeye-apt]
+* The APT28 designation is used by FireEye [^feye-apt]
 * Unit 26165, GRU [^sandworm]
 * Also known as Fancy Bear, CrowdStrike [^cs20190212]
 
 #### APT29
-* The APT29 designation is used by FireEye [^feye-apt]
+* The APT29 designation is used by FireEye 
 * Also known as Cozy Bear, CrowdStrike [^cs20160919]
 
 #### Sandworm
@@ -21,7 +21,7 @@ Different security companies refer to (presumably) the same attacker using their
 * The UNC designation is used by FireEye for as yet unknown (unassigned) attackers [^feye20201213]
 * Dark Halo, Volexity [^volexity20201214]
 
-#### Turla Group [^kaspersky20210111]
+#### Turla Group 
 * As per [^kaspersky20210111], this group may be the same as UNC2452
   * Snake, Krypton [^wiki1]
   * Venomous Bear, CrowdStrike [^cs20180312]
