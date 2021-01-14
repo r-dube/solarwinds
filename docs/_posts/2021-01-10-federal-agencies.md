@@ -1,5 +1,5 @@
 ---
-title: US Federal Agencies Breached
+title: US Federal Goverment Departments and Agencies Breached
 ---
 In this post, we document the list of US Federal agencies known to have been breached by the SolarWinds hack.
 
@@ -27,6 +27,9 @@ In this post, we document the list of US Federal agencies known to have been bre
 #### Jan 6, 2021 [^politico20210106]
 * Department of Justice (DOJ)
 
+#### Jan 7, 20201 [^cyberscoop20210107]
+* Federal Courts
+
 ### References
 [^politico20201213]: [https://www.politico.com/news/2020/12/13/federal-agencies-hacked-444970](https://www.politico.com/news/2020/12/13/federal-agencies-hacked-444970)
 [^politico20201214]: [https://www.politico.com/news/2020/12/14/massively-disruptive-cyber-crisis-engulfs-multiple-agencies-445376](https://www.politico.com/news/2020/12/14/massively-disruptive-cyber-crisis-engulfs-multiple-agencies-445376)
@@ -36,3 +39,4 @@ In this post, we document the list of US Federal agencies known to have been bre
 [^nyt20201214]: [https://www.nytimes.com/2020/12/14/us/politics/russia-hack-nsa-homeland-security-pentagon.html](https://www.nytimes.com/2020/12/14/us/politics/russia-hack-nsa-homeland-security-pentagon.html)
 [^cnn20201214]: [https://www.cnn.com/2020/12/14/politics/us-agencies-hack-solar-wind-russia/index.html](https://www.cnn.com/2020/12/14/politics/us-agencies-hack-solar-wind-russia/index.html)
 [^wapo20201214]: [https://www.washingtonpost.com/national-security/dhs-is-third-federal-agency-hacked-in-major-russian-cyberespionage-campaign/2020/12/14/41f8fc98-3e3c-11eb-8bc0-ae155bee4aff_story.html](https://www.washingtonpost.com/national-security/dhs-is-third-federal-agency-hacked-in-major-russian-cyberespionage-campaign/2020/12/14/41f8fc98-3e3c-11eb-8bc0-ae155bee4aff_story.html)
+[^cyberscoop20210107]: [https://www.cyberscoop.com/solarwinds-hack-us-courts/](https://www.cyberscoop.com/solarwinds-hack-us-courts/)
