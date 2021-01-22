@@ -24,8 +24,9 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Asserted that nation-state actors are becoming more sophisticated and determined
 * Indicated that 40 customers in 8 countries had been targeted by the malware and notified (by Microsoft)
 
-#### Dec 18, 2020 [^msft20201218], [^msft20201218-2]
+#### Dec 18, 2020 [^msft20201218], [^msft20201218-2], [[^msft20201218-3]
 * Recommended steps to protect customers with Microsoft cloud deployments from on-premise compromises
+* Published a threat analytics report on the SUNBURST
 
 #### Dec 21, 2020 [^msft20201221], [^msft20201221-2], [^msft20201221-3]
 * Identified mechanisms to identify SUNBURST IOCs for Identity providers and their customers
@@ -41,6 +42,13 @@ Microsoft updates posts in place but maintains the original date of the post. In
 #### Dec 31, 2020 [^msft20201231]
 * Declared that the nation-state actor had breached Microsoft's internal systems to the point of viewing Microsoft's code-base(s) using compromised Microsoft-internal accounts
 
+#### Jan 18, 2021 [^msft20210118]
+* Published a deep dive analysis on the inner workings of SUNBURST (similar to FireEye's analysis)
+* Identified an additional backdoor for Orion but unrelated to SUBURST or UNC2452; it is unclear if this backdoor is the same as SUPERNOVA previously reported by SolarWinds
+
+#### Jan 20, 2021 [^msft20210120]
+* Documented the handover from SUNBURST (the original malware) to TEARDROP or RAINDROP a secondary malware that eventually loads Cobalt Strike; UNC2452 separated the loading of Cobalt Strike from SUNBURST (and Orion) to reduce the probability of a defender detecting SUNBURST
+
 
 ### References
 [^msft20201213]: [https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
@@ -51,9 +59,12 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^msft20201217]: [https://blogs.microsoft.com/on-the-issues/2020/12/17/cyberattacks-cybersecurity-solarwinds-fireeye/](https://blogs.microsoft.com/on-the-issues/2020/12/17/cyberattacks-cybersecurity-solarwinds-fireeye/)
 [^msft20201218]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754)
 [^msft20201218-2]: [https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+[[^msft20201218-3]: [https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-threat-analytics-report-shares-the-latest-intelligence-on/ba-p/2001095](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-threat-analytics-report-shares-the-latest-intelligence-on/ba-p/2001095)
 [^msft20201221]: [https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
 [^msft20201221-2]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 [^msft20201221-3]: [https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/](https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/)
 [^msft20201222]: [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
 [^msft20201228]: [https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/](https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/)
 [^msft20201231]: [https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/)
+[^msft20210118]: [https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+[^msft20210120]: [https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
