@@ -32,11 +32,16 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 * Announced that Mandiant Advantage threat intelligence feed includes information on UNC2452, SUNBURST, Tear Drop, and Cobalt Strike beaconing
 
 #### Dec 24, 2020 [^feye20201224]
-* Provided additional details on Suburst's mechanisms to evade detection; included further information about SUNBURST internals
+* Provided additional details on SUNBURST's mechanisms to evade detection; included further information about SUNBURST internals
 * Announced work with Go Daddy and Microsoft to take over one of the DNS domains used by SUNBURST to "sinkhole" command-and-control traffic
 
 #### Jan 12, 2021 [^feye20210112]
 * Indicated that SUPERNOVA was not related to UNC2452 (although SUPERNOVA does affect SolarWinds Orion)
+
+#### Jan 19, 20201 [^feye20210119], [^feye20210119-2], [^feye20210119-3]
+* Documented methods used by UNC2452 to move from on-premise compromise via SUNBURST to Mircrosoft Cloud (Azure)
+* Provided details to implement a post-compromise remediation strategy across on-premises network and Microsoft cloud
+* Released PowerShell script to audit Microsoft Cloud deployment for IOCs
 
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
@@ -47,3 +52,6 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 [^feye20201218]: [https://www.fireeye.com/blog/products-and-services/2020/12/direct-access-to-threat-intelligence-with-mandiant-advantage.html](https://www.fireeye.com/blog/products-and-services/2020/12/direct-access-to-threat-intelligence-with-mandiant-advantage.html)
 [^feye20201224]: [https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html](https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html)
 [^feye20210112]: [https://www.brighttalk.com/webcast/7451/462719](https://www.brighttalk.com/webcast/7451/462719)
+[^feye20210119]: [https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html](https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html)
+[^feye20210119-2]: [https://github.com/fireeye/Mandiant-Azure-AD-Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)
+[^feye20210119-3]: [https://www.fireeye.com/content/dam/collateral/en/wp-m-unc2452.pdf](https://www.fireeye.com/content/dam/collateral/en/wp-m-unc2452.pdf)
