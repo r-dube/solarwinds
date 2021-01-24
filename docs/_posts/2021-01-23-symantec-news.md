@@ -22,12 +22,18 @@ In this post, we will summarize news on the SolarWinds hack from Symantec's pers
 * Continued the description of the clandestine protocol followed by SUNBURST to communicate with the C2
 * Described the sequence of steps in the lead up to a compromised machine establishing an HTTP connection with a second-stage C2
 
+#### Jan 18, 2021 [^symantec20210118]
+* Documented RAINDROP a loader (malware) which delivers a payload of Cobalt Strike (similar to TEARDROP)
+* Documented differences between the usage of RAINDROP and TEARDROP. UNC2452 installed RAINDROP on mutliple machines in an organization after the original breach (TEARDROP installations were restricted to the Orion server with SUNBURST)
+* Compared the consturciton of RAINDROP and TEARDROP
+
 #### Jan 22, 2021 [^symantec20210122]
-* Detailed how the SUNBURST sends data back to UNC2452's C2
+* Detailed how SUNBURST sends data back to UNC2452's C2
 
 ### References 
 [^symantec20201214]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds)
 [^symantec20201221]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection)
 [^symantec20210107]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-unique-dga](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-unique-dga)
 [^symantec20210115]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-command-control](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-command-control)
+[^symantec20210118]:[https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware)
 [^symantec20210122]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-sending-data](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-sending-data)
