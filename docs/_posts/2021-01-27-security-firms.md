@@ -3,7 +3,7 @@ title: Security Firms Attacked
 ---
 In this post, we document the list of Security firms attacked by UNC2452. While many of these firms were breached, some were not.
 
-In the notes below, we consider a firm to be breached if UNC2452 proceeded to a second-stage C2 using the original SUNBURST malware embedded inside Orion [^netresec1].
+In the notes below, we consider a firm to be breached via SUNBURST if UNC2452 proceeded to a second-stage C2 using the original SUNBURST malware embedded inside Orion [^netresec1]. A firm is considered breached by means other than SUNBURST if UNC2452 established a presence inside the firm's IT infrastructure or exfiltrated data (by means other than SUNBURST).
 
 #### FireEye
 * Attack disclosed: Dec 8, 2020 [^feye20201208]
@@ -35,23 +35,11 @@ In the notes below, we consider a firm to be breached if UNC2452 proceeded to a 
 * Breached: Yes
 * SUNBURST used: Yes [^fidelis20210126]
 
-#### MalwareBytes
-* Attack disclosed: Jan 19, 2021 [^zdnet20210119]
-* Earliest known attack date:
-* Breached: Yes
-* SUNBURST used: No [^malwarebytes20210119]
-
 #### Microsoft
 * Attack disclosed: Dec 17, 2020 [^zdnet20201217]
 * Earliest known attack date:
 * Breached: Yes
 * SUNBURST used: Yes
-
-#### CrowdStrike
-* Attack disclosed:
-* Earliest known attack date:
-* Breached: No
-* SUNBURST used: No
 
 #### Cisco
 * Attack disclosed: Dec 21, 2020 [^securitweek20201221]
@@ -64,6 +52,18 @@ In the notes below, we consider a firm to be breached if UNC2452 proceeded to a 
 * Earliest known attack date:
 * Breached: No [^vmware20201221]
 * SUNBURST used: Yes [^bleeping20201221]
+
+#### MalwareBytes
+* Attack disclosed: Jan 19, 2021 [^zdnet20210119]
+* Earliest known attack date:
+* Breached: Yes
+* SUNBURST used: No [^malwarebytes20210119]
+
+#### CrowdStrike
+* Attack disclosed: Dec 23, 2020 [^crowdstrike20201223], [^cyberscoop20201224]
+* Earliest known attack date:
+* Breached: No
+* SUNBURST used: No
 
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
@@ -85,3 +85,5 @@ In the notes below, we consider a firm to be breached if UNC2452 proceeded to a 
 [^securitweek20201221]: [https://www.securityweek.com/vmware-cisco-reveal-impact-solarwinds-incident](https://www.securityweek.com/vmware-cisco-reveal-impact-solarwinds-incident)
 [^vmware20201221]: [https://www.vmware.com/company/news/updates/2020/vmware-updated-statement-solarwinds.html](https://www.vmware.com/company/news/updates/2020/vmware-updated-statement-solarwinds.html)
 [^bleeping20201221]: [https://www.bleepingcomputer.com/news/security/vmware-latest-to-confirm-breach-in-solarwinds-hacking-campaign/](https://www.bleepingcomputer.com/news/security/vmware-latest-to-confirm-breach-in-solarwinds-hacking-campaign/)
+[^crowdstrike20201223]: [https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/](https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/)
+[^cyberscoop20201224]: [https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
