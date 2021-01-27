@@ -16,13 +16,14 @@ In this post, we document the list of US Federal agencies known to have been bre
 * Department of Health and Human Services (HHS)
   * National Institutes of Health (NIH)
 
-#### Dec 17, 2020 [^politico20201217], [^politico20201217-2]
+#### Dec 17, 2020 [^politico20201217], [^politico20201217-2], [^zdnet20201217]
 * Department of Energy (DOE)
   * Office of Secure Transporation at National Nuclear Security Administration (NNSA)
   * Federal Energy Regulatory Commission (FERC)
   * Sandia national laboratory
   * Los Almos National laboratory
   * Richland field office
+* Cybersecurity and Infrastructure Agency (CISA)
 
 #### Jan 6, 2021 [^politico20210106]
 * Department of Justice (DOJ)
@@ -40,3 +41,4 @@ In this post, we document the list of US Federal agencies known to have been bre
 [^cnn20201214]: [https://www.cnn.com/2020/12/14/politics/us-agencies-hack-solar-wind-russia/index.html](https://www.cnn.com/2020/12/14/politics/us-agencies-hack-solar-wind-russia/index.html)
 [^wapo20201214]: [https://www.washingtonpost.com/national-security/dhs-is-third-federal-agency-hacked-in-major-russian-cyberespionage-campaign/2020/12/14/41f8fc98-3e3c-11eb-8bc0-ae155bee4aff_story.html](https://www.washingtonpost.com/national-security/dhs-is-third-federal-agency-hacked-in-major-russian-cyberespionage-campaign/2020/12/14/41f8fc98-3e3c-11eb-8bc0-ae155bee4aff_story.html)
 [^cyberscoop20210107]: [https://www.cyberscoop.com/solarwinds-hack-us-courts/](https://www.cyberscoop.com/solarwinds-hack-us-courts/)
+[^zdnet20201217]: [https://www.zdnet.com/article/microsoft-was-also-breached-in-recent-solarwinds-supply-chain-hack-report/](https://www.zdnet.com/article/microsoft-was-also-breached-in-recent-solarwinds-supply-chain-hack-report/)

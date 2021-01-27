@@ -42,7 +42,7 @@ In the notes below, we consider a firm to be breached if UNC2452 proceeded to a 
 * SUNBURST used: No [^malwarebytes20210119]
 
 #### Microsoft
-* Attack disclosed: Dec 17, 2020 [[^zdnet20201217]
+* Attack disclosed: Dec 17, 2020 [^zdnet20201217]
 * Earliest known attack date:
 * Breached: Yes
 * SUNBURST used: Yes
@@ -54,16 +54,16 @@ In the notes below, we consider a firm to be breached if UNC2452 proceeded to a 
 * SUNBURST used: No
 
 #### Cisco
-* Attack disclosed:
+* Attack disclosed: Dec 21, 2020 [^securitweek20201221]
 * Earliest known attack date: May 16, 2020 [^netresec2]
 * Breached: Yes
-* SUNBURST used: Yes
+* SUNBURST used: Yes [^cisco20210112]
 
 #### VMware
-* Attack disclosed:
+* Attack disclosed: Dec 21, 2020 [^securitweek20201221]
 * Earliest known attack date:
-* Breached: Yes
-* SUNBURST used: Yes
+* Breached: No [^vmware20201221]
+* SUNBURST used: Yes [^bleeping20201221]
 
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
@@ -81,3 +81,7 @@ In the notes below, we consider a firm to be breached if UNC2452 proceeded to a 
 [^fidelis20210126]: [https://fidelissecurity.com/threatgeek/data-protection/ongoing-analysis-solarwinds-impact/](https://fidelissecurity.com/threatgeek/data-protection/ongoing-analysis-solarwinds-impact/)
 [^malwarebytes20210119]: [https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/](https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/)
 [^msft20201213]: [https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
+[^cisco20210112]: [https://tools.cisco.com/security/center/resources/solarwinds_orion_event_response](https://tools.cisco.com/security/center/resources/solarwinds_orion_event_response)
+[^securitweek20201221]: [https://www.securityweek.com/vmware-cisco-reveal-impact-solarwinds-incident](https://www.securityweek.com/vmware-cisco-reveal-impact-solarwinds-incident)
+[^vmware20201221]: [https://www.vmware.com/company/news/updates/2020/vmware-updated-statement-solarwinds.html](https://www.vmware.com/company/news/updates/2020/vmware-updated-statement-solarwinds.html)
+[^bleeping20201221]: [https://www.bleepingcomputer.com/news/security/vmware-latest-to-confirm-breach-in-solarwinds-hacking-campaign/](https://www.bleepingcomputer.com/news/security/vmware-latest-to-confirm-breach-in-solarwinds-hacking-campaign/)
