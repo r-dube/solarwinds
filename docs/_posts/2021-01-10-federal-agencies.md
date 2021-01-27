@@ -3,7 +3,7 @@ title: US Federal Goverment Departments and Agencies Breached
 ---
 In this post, we document the list of US Federal agencies known to have been breached by the SolarWinds hack.
 
-#### Day 13, 2020 [^politico20201213] 
+#### Dec 13, 2020 [^politico20201213] 
 * Treasury department
 * Commerce department 
   * National Telecommunications and Information Administration (NTIA)
