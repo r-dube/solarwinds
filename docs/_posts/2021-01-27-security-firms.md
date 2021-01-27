@@ -3,7 +3,7 @@ title: Security Firms Attacked
 ---
 In this post, we document the list of Security firms attacked by UNC2452. While many of these firms were breached, some were not.
 
-In the notes below, we consider a firm to be breached via SUNBURST if UNC2452 proceeded to a second-stage C2 using the original SUNBURST malware embedded inside Orion [^netresec1]. A firm is considered breached by means other than SUNBURST if UNC2452 established a presence inside the firm's IT infrastructure or exfiltrated data (by means other than SUNBURST).
+In the notes below, we consider a firm to be breached via SUNBURST if UNC2452 proceeded to a second-stage C2 using the original SUNBURST malware embedded inside Orion [^netresec1]. A firm is deemed to be breached by means other than SUNBURST if UNC2452 established a presence inside the its IT infrastructure or exfiltrated data (by means other than SUNBURST).
 
 #### FireEye
 * Attack disclosed: Dec 8, 2020 [^feye20201208]
