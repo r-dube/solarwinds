@@ -46,8 +46,9 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Published a deep dive analysis on the inner workings of SUNBURST (similar to FireEye's analysis)
 * Identified an additional backdoor for Orion but unrelated to SUBURST or UNC2452; it is unclear if this backdoor is the same as SUPERNOVA previously reported by SolarWinds
 
-#### Jan 20, 2021 [^msft20210120]
+#### Jan 20, 2021 [^msft20210120], [^zdnet20210121]
 * Documented the handover from SUNBURST (the original malware) to TEARDROP or RAINDROP a secondary malware that eventually loads Cobalt Strike; UNC2452 separated the loading of Cobalt Strike from SUNBURST (and Orion) to reduce the probability of a defender detecting SUNBURST
+* Noted various elements of operarational security demonstrated by UNC2452
 
 
 ### References
@@ -68,3 +69,4 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^msft20201231]: [https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/)
 [^msft20210118]: [https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 [^msft20210120]: [https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
+[^zdnet20210121]: [https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/](https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/)
