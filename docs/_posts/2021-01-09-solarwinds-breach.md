@@ -21,7 +21,7 @@ SolarWinds uses the Microsoft Office 365 suite for email. As per ([^wsj20210202]
 #### Feb 3, 2021
 In a blog post ([^solarwinds20210203]), SolarWinds' CEO did not emphasize Office 365 as the initial vector of attack. Instead, the CEO claimed that a zero-day or a (un-named) third-party application was most likely responsible for the initial breach of SolarWinds.
 
-However, given that SolarWinds Orion had atleast four serious vulnerabilities (SUNBURST, SUPERNOVA and the two vulnerabilities discovered by Trustwave) the claims by former SolarWinds employees of lax security appear credible. With poor security, an attacker would not need a zero-day to breach SolarWinds.
+However, given that SolarWinds Orion had atleast three serious vulnerabilities (SUNBURST discovered by FireEye, and two other vulnerabilities discovered by Trustwave) the claims by former SolarWinds employees of lax security appear credible. With poor security, an attacker would not need a zero-day to breach SolarWinds.
 
 
 ### References 

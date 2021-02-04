@@ -34,7 +34,7 @@ In this post, we document the list of US Federal agencies known to have been bre
 
 #### Feb 2, 2021 [^reuters20210202]
 * Department of Agriculture
-  * National Finance Center. This breach also exploits SolarWinds but does not use SUNBURST; further, the attacker is of chinese origin and unrelated to UNC2452; as per ([^cyberscoop20210203]) it appears that the chinese attackers exploited SUPERNOVA to breach the National Finace Center.
+  * National Finance Center. This breach also exploits SolarWinds but does not use SUNBURST; further, the attacker is of chinese origin and unrelated to UNC2452; as per ([^wired20210202], [^cyberscoop20210203]) it appears that the chinese attackers exploited SUPERNOVA to breach the National Finace Center.
 
 
 ### References
@@ -51,3 +51,4 @@ In this post, we document the list of US Federal agencies known to have been bre
 [^bi20201218]: [https://www.businessinsider.com/list-of-the-agencies-companies-hacked-in-solarwinds-russian-cyberattack-2020-12](https://www.businessinsider.com/list-of-the-agencies-companies-hacked-in-solarwinds-russian-cyberattack-2020-12)
 [^reuters20210202]: [https://www.reuters.com/article/idUSKBN2A22K8](https://www.reuters.com/article/idUSKBN2A22K8)
 [^cyberscoop20210203]: [https://www.cyberscoop.com/solarwinds-orion-vulnerabilities-trustwave/](https://www.cyberscoop.com/solarwinds-orion-vulnerabilities-trustwave/)
+[^wired20210202]: [https://www.wired.com/story/solarwinds-hack-china-usda/](https://www.wired.com/story/solarwinds-hack-china-usda/)
