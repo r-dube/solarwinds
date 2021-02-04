@@ -3,6 +3,9 @@ title: How was SolarWinds Breached?
 ---
 In this post, we track news reports on the actual breach of SolarWinds that allowed the attackers to implant SUNBURST into Orion.
 
+#### Dec 21, 2020
+SolarWinds appears to have had a lax attitude towards product security ([^bloomberg20201221]). Former employees seem to claim that given the lack of focus on security a breach of SolarWinds was inevitable.
+
 #### Jan 6, 2021 
 SolarWinds used software (TeamCity) from a Czech company called JetBrains ([^jetbrains1]). The software is used to manage software builds (Note that SUNBURST was inserted into Orion during the build process).
 
@@ -16,9 +19,13 @@ At this time, the evidence against JetBrains is circumstantial at best. None of 
 SolarWinds uses the Microsoft Office 365 suite for email. As per ([^wsj20210202], [^dr20210203]), UNC2452 had compromised at least one Office 365 email account by December 2019 and perhaps even earlier than that. While uncofirmed, email could have been the initial mechanism used to compromise SolarWinds.
 
 #### Feb 3, 2021
-However, in a blog post ([^solarwinds20210203]), SolarWinds' CEO did not emphasized Office 365 as the initial vector of attack. Instead, the CEO claimed that a zero-day or a (un-named) third-party application was most likely responsible for the initial breach of SolarWinds.
+In a blog post ([^solarwinds20210203]), SolarWinds' CEO did not emphasize Office 365 as the initial vector of attack. Instead, the CEO claimed that a zero-day or a (un-named) third-party application was most likely responsible for the initial breach of SolarWinds.
+
+However, given that SolarWinds Orion had atleast four serious vulnerabilities (SUNBURST, SUPERNOVA and the two vulnerabilities discovered by Trustwave) the claims by former SolarWinds employees of lax security appear credible. With poor security, an attacker would not need a zero-day to breach SolarWinds.
+
 
 ### References 
+[^bloomberg20201221]: [https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack](https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack)
 [^nyt20210106]: [https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html)
 [^reuters20210106]: [https://www.reuters.com/article/global-cyber-jetbrains/fbi-probe-of-major-hack-includes-project-management-software-from-jetbrains-sources-idINL1N2JH2AA](https://www.reuters.com/article/global-cyber-jetbrains/fbi-probe-of-major-hack-includes-project-management-software-from-jetbrains-sources-idINL1N2JH2AA)
 [^jetbrains1]: [https://www.jetbrains.com/company/contacts/#headquarters-international-sales](https://www.jetbrains.com/company/contacts/#headquarters-international-sales)

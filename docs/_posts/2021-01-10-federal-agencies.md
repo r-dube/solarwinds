@@ -29,8 +29,13 @@ In this post, we document the list of US Federal agencies known to have been bre
 #### Jan 6, 2021 [^politico20210106]
 * Department of Justice (DOJ)
 
-#### Jan 7, 20201 [^cyberscoop20210107]
+#### Jan 7, 2021 [^cyberscoop20210107]
 * Federal Courts
+
+#### Feb 2, 2021 [^reuters20210202]
+* Department of Agriculture
+  * National Finance Center (This breach also exploits SolarWinds but does not use SUNBURST; further, the attacker is of chinese origin and unrelated to UNC2452; it remains unclear if the chinese attackers exploited SUPERNOVA or one of the two new Orion vulnerabilities disclosed by Trustwave)
+
 
 ### References
 [^politico20201213]: [https://www.politico.com/news/2020/12/13/federal-agencies-hacked-444970](https://www.politico.com/news/2020/12/13/federal-agencies-hacked-444970)
@@ -44,3 +49,4 @@ In this post, we document the list of US Federal agencies known to have been bre
 [^cyberscoop20210107]: [https://www.cyberscoop.com/solarwinds-hack-us-courts/](https://www.cyberscoop.com/solarwinds-hack-us-courts/)
 [^zdnet20201217]: [https://www.zdnet.com/article/microsoft-was-also-breached-in-recent-solarwinds-supply-chain-hack-report/](https://www.zdnet.com/article/microsoft-was-also-breached-in-recent-solarwinds-supply-chain-hack-report/)
 [^bi20201218]: [https://www.businessinsider.com/list-of-the-agencies-companies-hacked-in-solarwinds-russian-cyberattack-2020-12](https://www.businessinsider.com/list-of-the-agencies-companies-hacked-in-solarwinds-russian-cyberattack-2020-12)
+[^reuters20210202]: [https://www.reuters.com/article/idUSKBN2A22K8](https://www.reuters.com/article/idUSKBN2A22K8)
