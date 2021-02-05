@@ -18,13 +18,15 @@ Different security companies refer to (presumably) the same attacker using their
 * Also known as Voodoo Bear: CrowdStrike [^cs20180129]
 
 #### UNC2452
-* The UNC designation is used by FireEye for as yet unknown (unassigned) attackers [^feye20201213]
+* The UNC designation is used by FireEye for as yet un-categorized (unknown) attackers [^feye20201213]
 * Dark Halo: Volexity [^volexity20201214]
+* Stellar Particle: CrowdStrike [^sans20210204]
 
 #### Turla Group 
 * As per [^kaspersky20210111], this group may be the same as UNC2452
   * Snake, Krypton [^wiki1]
   * Venomous Bear: CrowdStrike [^cs20180312]
+
 
 ### References 
 [^feye-apt]: [https://www.fireeye.com/current-threats/apt-groups.html](https://www.fireeye.com/current-threats/apt-groups.html)
@@ -37,3 +39,4 @@ Different security companies refer to (presumably) the same attacker using their
 [^volexity20201214]: [https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
 [^kaspersky20210111]: [https://securelist.com/sunburst-backdoor-kazuar/99981/](https://securelist.com/sunburst-backdoor-kazuar/99981/)
 [^wiki1]: [https://en.wikipedia.org/wiki/Turla_(malware)](https://en.wikipedia.org/wiki/Turla_(malware))
+[^sans20210204]: [https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s](https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s)
