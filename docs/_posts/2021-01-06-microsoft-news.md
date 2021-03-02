@@ -50,6 +50,11 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Documented the handover from SUNBURST (the original malware) to TEARDROP or RAINDROP a secondary malware that eventually loads Cobalt Strike; UNC2452 separated the loading of Cobalt Strike from SUNBURST (and Orion) to reduce the probability of a defender detecting SUNBURST
 * Noted various elements of operarational security demonstrated by UNC2452
 
+#### Feb 18, 2021 [^msft20210218], [^bleeping20210218]
+* Confirmed that UNC2452 downloaded code for components of Azure, Intune (mobile device manager), and Exchange (no repository was fully downloaded)
+* Indicated that UNC2452 searched for secrets and keys stored inside the code
+* Declared that Microsoft policies prohibit storing secrets and keys inside source code; confirmed that attacker did not find any secrets or keys in the code 
+
 
 ### References
 [^msft20201213]: [https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
@@ -69,4 +74,6 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^msft20201231]: [https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/)
 [^msft20210118]: [https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 [^msft20210120]: [https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
+[^msft20210218]: [https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/](https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/)
 [^zdnet20210121]: [https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/](https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/)
+[^bleeping20210218]: [https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/](https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/)
