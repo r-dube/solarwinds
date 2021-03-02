@@ -23,6 +23,9 @@ In a blog post ([^solarwinds20210203]), SolarWinds' CEO did not emphasize Office
 
 However, given that SolarWinds Orion had atleast three serious vulnerabilities (SUNBURST discovered by FireEye, and two other vulnerabilities discovered by Trustwave) the claims by former SolarWinds employees of lax security appear credible. With poor security, an attacker would not need a zero-day to breach SolarWinds.
 
+#### Feb 26, 2021
+SANS [^sans20210226] confirms that TeamCity's role in the SolarWinds breach has not been established and may have been a false alarm.
+
 
 ### References 
 [^bloomberg20201221]: [https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack](https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack)
@@ -34,3 +37,4 @@ However, given that SolarWinds Orion had atleast three serious vulnerabilities (
 [^wsj20210202]: [https://www.wsj.com/articles/hackers-lurked-in-solarwinds-email-system-for-at-least-9-months-ceo-says-11612317963](https://www.wsj.com/articles/hackers-lurked-in-solarwinds-email-system-for-at-least-9-months-ceo-says-11612317963)
 [^dr20210203]: [https://www.darkreading.com/perimeter/solarwinds-attackers-spent-months-in-corporate-email-system-report/d/d-id/1340047](https://www.darkreading.com/perimeter/solarwinds-attackers-spent-months-in-corporate-email-system-report/d/d-id/1340047)
 [^solarwinds20210203]: [https://orangematter.solarwinds.com/2021/02/03/findings-from-our-ongoing-investigations/](https://orangematter.solarwinds.com/2021/02/03/findings-from-our-ongoing-investigations/)
+[^sans20210226]: [https://www.sans.org/webcast/recording/citrix/118640/360305](https://www.sans.org/webcast/recording/citrix/118640/360305)

@@ -24,6 +24,7 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
   * A report from Palo Alto Networks [^panw20210117] on Dec 17 also calls this component SUPERNOVA
   * An undated report from Guidepoint Security also refers to the malware dll as SUPERNOVA
   * Bleeping Computer refers to Palo Alto and Guidepoint reports above on Dec 21 [^bleeping20201221] when using the term SUPERNOVA
+  * Only a small number of Orion installations are found to have SUPERNOVA; however this may have been because a different nation state actor used the time between Dec 8 and Dec 13 to remove traces of SUPERNOVA [^sans20210226]
 * Recognized yet another malware component (powershell script) called COSMICGALE but did not refer to this component by name in the blog posts
   * COSMICGALE is listed in the published IOC list [^feyegit1]
   * COSMICGALE was eventually found to be unrelated to SUNBURST [^sans20210204]
@@ -70,3 +71,4 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 [^guidepoint1]: [https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/](https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/)
 [^bleeping20201221]: [https://www.bleepingcomputer.com/news/security/new-supernova-backdoor-found-in-solarwinds-cyberattack-analysis/](https://www.bleepingcomputer.com/news/security/new-supernova-backdoor-found-in-solarwinds-cyberattack-analysis/)
 [^sans20210204]: [https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s](https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s)
+[^sans20210226]: [https://www.sans.org/webcast/recording/citrix/118640/360305](https://www.sans.org/webcast/recording/citrix/118640/360305)
