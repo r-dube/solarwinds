@@ -78,6 +78,13 @@ In addition to the posts referred to above, SolarWinds uses blog posts that are 
 * Hypothesized that by compromising credentials of SolarWinds employees, UNC2452 was able to gain access to and exploit the Orion development environment
 * Announced that SolarWinds was tightening corporate security by adopting zero trust principles and inspecting east-west network traffic
 
+#### Feb 25, 2021 [^transcript20210225]
+* Expected investments in security-related initiatives to be approximately $20 million to $25 million in 2021
+
+#### Mar 1, 2021 [^cyberscoop20210302]
+* Spent $3.5 million to address the SolarWinds hack through Dec 31, 2020
+* Confirmed that it was under additional investigations related to the SolarWinds hack, including one from the European Union on GDPR
+
 ### References
 [^solarwinds1]: [https://www.solarwinds.com/securityadvisory/faq](https://www.solarwinds.com/securityadvisory/faq)
 [^solarwinds2]: [https://www.solarwinds.com/securityadvisory](https://www.solarwinds.com/securityadvisory)
@@ -91,3 +98,5 @@ In addition to the posts referred to above, SolarWinds uses blog posts that are 
 [^wsj20210202]: [https://www.wsj.com/articles/hackers-lurked-in-solarwinds-email-system-for-at-least-9-months-ceo-says-11612317963](https://www.wsj.com/articles/hackers-lurked-in-solarwinds-email-system-for-at-least-9-months-ceo-says-11612317963)
 [^solarwinds20210203]: [https://orangematter.solarwinds.com/2021/02/03/findings-from-our-ongoing-investigations/](https://orangematter.solarwinds.com/2021/02/03/findings-from-our-ongoing-investigations/)
 [^solarwinds20210203-2]: [https://orangematter.solarwinds.com/2021/02/03/continuing-our-journey-to-becoming-secure-by-design/](https://orangematter.solarwinds.com/2021/02/03/continuing-our-journey-to-becoming-secure-by-design/)
+[^cyberscoop20210302]: [https://www.cyberscoop.com/solarwinds-sec-doj-state-attorneys-general-inquiries-breach/](https://www.cyberscoop.com/solarwinds-sec-doj-state-attorneys-general-inquiries-breach/)
+[^transcript20210225]: [https://www.fool.com/earnings/call-transcripts/2021/02/26/solarwinds-corporation-swi-q4-2020-earnings-call-t/](https://www.fool.com/earnings/call-transcripts/2021/02/26/solarwinds-corporation-swi-q4-2020-earnings-call-t/)

@@ -46,6 +46,9 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Published a deep dive analysis on the inner workings of SUNBURST (similar to FireEye's analysis)
 * Identified an additional backdoor for Orion but unrelated to SUBURST or UNC2452; it is unclear if this backdoor is the same as SUPERNOVA previously reported by SolarWinds
 
+#### Jan 19, 2021 [^msft20210119]
+* Advised customers to use a zero trust security model to limit damage from future versions of the SolarWinds hack
+
 #### Jan 20, 2021 [^msft20210120], [^zdnet20210121]
 * Documented the handover from SUNBURST (the original malware) to TEARDROP or RAINDROP a secondary malware that eventually loads Cobalt Strike; UNC2452 separated the loading of Cobalt Strike from SUNBURST (and Orion) to reduce the probability of a defender detecting SUNBURST
 * Noted various elements of operarational security demonstrated by UNC2452
@@ -59,6 +62,8 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Indicated that UNC2452 searched for secrets and keys stored inside the code
 * Declared that Microsoft policies prohibit storing secrets and keys inside source code; confirmed that attacker did not find any secrets or keys in the code 
 
+#### Feb 23, 2021 [^cnbc20210223]
+* Indicated that it had notified 60 customers that were compromised by the SolarWinds hack
 
 ### References
 [^msft20201213]: [https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
@@ -77,9 +82,11 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^msft20201228]: [https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/](https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/)
 [^msft20201231]: [https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/)
 [^msft20210118]: [https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+[^msft20210119]: [https://www.microsoft.com/security/blog/2021/01/19/using-zero-trust-principles-to-protect-against-sophisticated-attacks-like-solorigate/](https://www.microsoft.com/security/blog/2021/01/19/using-zero-trust-principles-to-protect-against-sophisticated-attacks-like-solorigate/)
 [^msft20210120]: [https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
 [^msft20210218]: [https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/](https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/)
 [^zdnet20210121]: [https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/](https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/)
 [^bleeping20210218]: [https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/](https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/)
 [^cbs20210214]: [https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
 [^register20210215]: [https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/](https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/)
+[^cnbc20210223]: [https://www.cnbc.com/2021/02/23/microsoft-exec-brad-smith-praises-fireeye-in-solarwinds-hack-testimony.html](https://www.cnbc.com/2021/02/23/microsoft-exec-brad-smith-praises-fireeye-in-solarwinds-hack-testimony.html)
