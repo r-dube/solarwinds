@@ -50,6 +50,10 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Documented the handover from SUNBURST (the original malware) to TEARDROP or RAINDROP a secondary malware that eventually loads Cobalt Strike; UNC2452 separated the loading of Cobalt Strike from SUNBURST (and Orion) to reduce the probability of a defender detecting SUNBURST
 * Noted various elements of operarational security demonstrated by UNC2452
 
+#### Feb 14, 2021 [^cbs20210214], [^register20210215]
+* Claimed that UNC2452 deployed more than 1000 engineers for the Solarwinds hack
+* Declared that SUNBURST comprised of 4,032 lines of code
+
 #### Feb 18, 2021 [^msft20210218], [^bleeping20210218]
 * Confirmed that UNC2452 downloaded code for components of Azure, Intune (mobile device manager), and Exchange (no repository was fully downloaded)
 * Indicated that UNC2452 searched for secrets and keys stored inside the code
@@ -77,3 +81,5 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^msft20210218]: [https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/](https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/)
 [^zdnet20210121]: [https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/](https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/)
 [^bleeping20210218]: [https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/](https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/)
+[^cbs20210214]: [https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
+[^register20210215]: [https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/](https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/)
