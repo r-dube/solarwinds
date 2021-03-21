@@ -48,10 +48,14 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 #### Jan 12, 2021 [^feye20210112]
 * Indicated that SUPERNOVA was not related to UNC2452 (although SUPERNOVA does affect SolarWinds Orion)
 
-#### Jan 19, 20201 [^feye20210119], [^feye20210119-2], [^feye20210119-3]
+#### Jan 19, 2021 [^feye20210119], [^feye20210119-2], [^feye20210119-3]
 * Documented methods used by UNC2452 to move from on-premise compromise via SUNBURST to Mircrosoft Cloud (Azure)
 * Provided details to implement a post-compromise remediation strategy across on-premises network and Microsoft cloud
 * Released PowerShell script to audit Microsoft Cloud deployment for IOCs
+
+#### Feb 23, 2021 [^senate20210223]
+* Indicated that almost 100 experienced people were involved in investigating the SolarWinds Orion based breach at FireEye
+* Claimed that UNC2452 has been on a multi-decade campaign to infiltrate assets in the US
 
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
@@ -72,3 +76,4 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 [^bleeping20201221]: [https://www.bleepingcomputer.com/news/security/new-supernova-backdoor-found-in-solarwinds-cyberattack-analysis/](https://www.bleepingcomputer.com/news/security/new-supernova-backdoor-found-in-solarwinds-cyberattack-analysis/)
 [^sans20210204]: [https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s](https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s)
 [^sans20210226]: [https://www.sans.org/webcast/recording/citrix/118640/360305](https://www.sans.org/webcast/recording/citrix/118640/360305)
+[^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)
