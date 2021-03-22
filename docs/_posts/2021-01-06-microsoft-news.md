@@ -62,8 +62,10 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Indicated that UNC2452 searched for secrets and keys stored inside the code
 * Declared that Microsoft policies prohibit storing secrets and keys inside source code; confirmed that attacker did not find any secrets or keys in the code 
 
-#### Feb 23, 2021 [^cnbc20210223]
-* Indicated that it had notified 60 customers that were compromised by the SolarWinds hack
+#### Feb 23, 2021 [^cnbc20210223], [^senate20210223]
+* Indicated that it had notified 60 customers that were compromised by the SolarWinds hack (the US Government number for organizations compromised was ~100)
+* Named the Russian Foreign Intelligence Service as the only suspect for the role of UNC2452
+* Reiterated that at least a 1000 skilled engineers were involved in the SolarWinds hack (working for UNC2452)
 
 ### References
 [^msft20201213]: [https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
@@ -90,3 +92,4 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^cbs20210214]: [https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
 [^register20210215]: [https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/](https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/)
 [^cnbc20210223]: [https://www.cnbc.com/2021/02/23/microsoft-exec-brad-smith-praises-fireeye-in-solarwinds-hack-testimony.html](https://www.cnbc.com/2021/02/23/microsoft-exec-brad-smith-praises-fireeye-in-solarwinds-hack-testimony.html)
+[^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)

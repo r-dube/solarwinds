@@ -20,7 +20,7 @@ Different security companies refer to (presumably) the same attacker using their
 #### UNC2452
 * The UNC designation is used by FireEye for as yet un-categorized (unknown) attackers [^feye20201213]
 * Dark Halo: Volexity [^volexity20201214]
-* Stellar Particle: CrowdStrike [^sans20210204]
+* Stellar Particle: CrowdStrike [^sans20210204],[^senate20210223]
 
 #### Turla Group 
 * As per [^kaspersky20210111], this group may be the same as UNC2452
@@ -40,3 +40,4 @@ Different security companies refer to (presumably) the same attacker using their
 [^kaspersky20210111]: [https://securelist.com/sunburst-backdoor-kazuar/99981/](https://securelist.com/sunburst-backdoor-kazuar/99981/)
 [^wiki1]: [https://en.wikipedia.org/wiki/Turla_(malware)](https://en.wikipedia.org/wiki/Turla_(malware))
 [^sans20210204]: [https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s](https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s)
+[^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)

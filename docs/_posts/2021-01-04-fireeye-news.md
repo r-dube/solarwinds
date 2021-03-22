@@ -56,6 +56,8 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 #### Feb 23, 2021 [^senate20210223]
 * Indicated that almost 100 experienced people were involved in investigating the SolarWinds Orion based breach at FireEye
 * Claimed that UNC2452 has been on a multi-decade campaign to infiltrate assets in the US
+* Declared that the malware used by UNC2452 had the ability to shutdown upto 50 endpoint security agents; it is unclear if this ability was in SUNBURST or some other malware used in the attack
+* Advocated for mandatory information sharing on discovering unauthorized intrusions to a central government agency and for separating such reporting from breach disclosures (that carry additional investigation and liability concerns)
 
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
