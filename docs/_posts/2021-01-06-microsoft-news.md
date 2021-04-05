@@ -54,7 +54,7 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Noted various elements of operarational security demonstrated by UNC2452
 
 #### Feb 14, 2021 [^cbs20210214], [^register20210215]
-* Claimed that UNC2452 deployed more than 1000 engineers for the Solarwinds hack
+* Claimed that UNC2452 deployed more than 1000 engineers for the SolarWinds hack
 * Declared that SUNBURST comprised of 4,032 lines of code
 
 #### Feb 18, 2021 [^msft20210218], [^bleeping20210218]
@@ -66,6 +66,15 @@ Microsoft updates posts in place but maintains the original date of the post. In
 * Indicated that it had notified 60 customers that were compromised by the SolarWinds hack (the US Government number for organizations compromised was ~100)
 * Named the Russian Foreign Intelligence Service as the only suspect for the role of UNC2452
 * Reiterated that at least a 1000 skilled engineers were involved in the SolarWinds hack (working for UNC2452)
+
+#### Feb 25, 2021 [^msft20210225]
+* Announced open-sourcing of CodeQL - a previously inhouse tool to analyze code and detect similarities in syntax and semantics across code bases
+* Indicated that it had used CodeQL to hunt for potential implants similar to SUNBURST (and related malware) in Microsoft's code
+
+#### Mar 4, 2021 [^msft2021304]
+* Described newly detected GoldMax malware used by UNC2452 (FireEye appears to call this malware SUNSHUTTLE)
+* Announced and described two additional pieces of malware - Sibot and GoldFinder - related to GoldMax
+* Indicated that all three malware pieces were used after the initial compromise of an organization via SUNBURST
 
 ### References
 [^msft20201213]: [https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
@@ -87,6 +96,9 @@ Microsoft updates posts in place but maintains the original date of the post. In
 [^msft20210119]: [https://www.microsoft.com/security/blog/2021/01/19/using-zero-trust-principles-to-protect-against-sophisticated-attacks-like-solorigate/](https://www.microsoft.com/security/blog/2021/01/19/using-zero-trust-principles-to-protect-against-sophisticated-attacks-like-solorigate/)
 [^msft20210120]: [https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
 [^msft20210218]: [https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/](https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/)
+[^msft20210225]: [https://www.microsoft.com/security/blog/2021/02/25/microsoft-open-sources-codeql-queries-used-to-hunt-for-solorigate-activity/](https://www.microsoft.com/security/blog/2021/02/25/microsoft-open-sources-codeql-queries-used-to-hunt-for-solorigate-activity/)
+[^msft2021304]: [https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/](https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/)
+
 [^zdnet20210121]: [https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/](https://www.zdnet.com/article/microsoft-this-is-how-the-sneaky-solarwinds-hackers-hid-their-onward-attacks-for-so-long/)
 [^bleeping20210218]: [https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/](https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-hackers-downloaded-some-azure-exchange-source-code/)
 [^cbs20210214]: [https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
