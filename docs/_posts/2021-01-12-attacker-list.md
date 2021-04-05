@@ -20,6 +20,7 @@ Different security companies refer to (presumably) the same attacker using their
 #### UNC2452
 * The UNC designation is used by FireEye for as yet un-categorized (unknown) attackers [^feye20201213]
 * Dark Halo: Volexity [^volexity20201214]
+* SolarStorm: Palo Alto Networks [^pan20201214]
 * Stellar Particle: CrowdStrike [^sans20210204],[^senate20210223]
 
 #### Turla Group 
@@ -41,3 +42,4 @@ Different security companies refer to (presumably) the same attacker using their
 [^wiki1]: [https://en.wikipedia.org/wiki/Turla_(malware)](https://en.wikipedia.org/wiki/Turla_(malware))
 [^sans20210204]: [https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s](https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s)
 [^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)
+[^pan20201214]: [https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/](https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/)
