@@ -60,6 +60,10 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 * Declared that the malware used by UNC2452 had the ability to shutdown upto 50 endpoint security agents; it is unclear if this ability was in SUNBURST or some other malware used in the attack
 * Advocated for mandatory information sharing on discovering unauthorized intrusions to a central government agency and for separating such reporting from breach disclosures (that carry additional investigation and liability concerns)
 
+#### Mar 4, 2021 [^feye20210304]
+* Announced a new second-stage backdoor - SUNSHUTTLE - found in some organizations compromised by UNC2452
+* Linked SUNSHUTTLE to UNC2452, but left room for revaluation
+
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
 [^feye20201208-2]: [https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
@@ -73,6 +77,7 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 [^feye20210119-2]: [https://github.com/fireeye/Mandiant-Azure-AD-Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)
 [^feye20210119-3]: [https://www.fireeye.com/content/dam/collateral/en/wp-m-unc2452.pdf](https://www.fireeye.com/content/dam/collateral/en/wp-m-unc2452.pdf)
 [^feyegit1]: [https://github.com/fireeye/sunburst_countermeasures/blob/main/signature_table_of_contents.csv](https://github.com/fireeye/sunburst_countermeasures/blob/main/signature_table_of_contents.csv)
+[^feye20210304]: [https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html](https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html)
 
 [^panw20210117]: [https://unit42.paloaltonetworks.com/solarstorm-supernova/](https://unit42.paloaltonetworks.com/solarstorm-supernova/)
 [^guidepoint1]: [https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/](https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/)
