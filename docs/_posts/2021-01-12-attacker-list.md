@@ -22,7 +22,8 @@ Different security companies refer to (presumably) the same attacker using their
 * Dark Halo: Volexity [^volexity20201214]
 * SolarStorm: Palo Alto Networks [^pan20201214]
 * Stellar Particle: CrowdStrike [^sans20210204],[^senate20210223]
-* NOBELIUM: Microsoft [^msft2020304]
+* NOBELIUM: Microsoft [^msft2021304]
+* *As per an White House statement [^whitehouse20210415], the SolarWinds hack was perpetrated by APT29. In other words UNC2452 is the same as APT29*
 
 #### Turla Group 
 * As per [^kaspersky20210111], this group may be the same as UNC2452
@@ -44,4 +45,5 @@ Different security companies refer to (presumably) the same attacker using their
 [^sans20210204]: [https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s](https://www.youtube.com/watch?v=4X7CDAOPtIs&t=278s)
 [^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)
 [^pan20201214]: [https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/](https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/)
-[^msft2020304]: [https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/](https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/)
+[^msft2021304]: [https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/](https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/)
+[^whitehouse20210415]: [https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/)
