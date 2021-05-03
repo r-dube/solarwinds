@@ -1,5 +1,5 @@
 ---
-title: US Government's attribution for the SolarWinds hacks
+title: US Government's attribution for the SolarWinds hack
 ---
 This post will summarize the US Government's attribution for the SolarWinds Hack based on information released by the US government and interpreted by third parties.
 
