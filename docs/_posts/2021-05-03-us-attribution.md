@@ -14,7 +14,7 @@ The US National Security Agence (NSA), CISA (Cybersecurity and Infrastructure Se
 
 The timing of the NSA/CISA/FBI statement - coinciding with the release of the fact-sheet - suggests that the US government believes that one or more of these vulnerabilities were used in the initial compromise of SolarWinds.
 
-[^krebs20210416] also interprets the NSA/CISC/FBI statement as evidence that APT29 used one of the vulnerabilities listed (in VMware's Workspace One software) as part of the Solarwinds hack. However, the wording of the statement and its interpretation in 4 leaves room for both possibilities - that the vulnerability was used to compromise SolarWinds or that the vulnerability was used in addition to a compromised SolarWinds Orion against Orion customers.
+[^krebs20210416] also interprets the NSA/CISC/FBI statement as evidence that APT29 used one of the vulnerabilities listed (in VMware's Workspace One software) as part of the Solarwinds hack. However, the wording of the statement and its interpretation in [^krebs20210416] leaves room for both possibilities - that the vulnerability was used to compromise SolarWinds or that the vulnerability was used in addition to a compromised SolarWinds Orion against Orion customers.
 
 [^fbi20210415-2], [^crn20210415] contain additional information on the vulnerable software exploited by APT29. 
 

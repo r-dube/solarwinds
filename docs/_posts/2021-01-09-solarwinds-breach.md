@@ -29,6 +29,9 @@ SolarWinds declares that it can not confirm whether TeamCity had any role in the
 #### Feb 26, 2021
 SANS [^sans20210226] confirms that TeamCity's role in the SolarWinds breach has not been established and may have been a false alarm.
 
+#### Apr 15, 2021
+See the post at [^blog20210503] for additional information.
+
 
 ### References 
 [^bloomberg20201221]: [https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack](https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack)
@@ -42,3 +45,4 @@ SANS [^sans20210226] confirms that TeamCity's role in the SolarWinds breach has 
 [^solarwinds20210203]: [https://orangematter.solarwinds.com/2021/02/03/findings-from-our-ongoing-investigations/](https://orangematter.solarwinds.com/2021/02/03/findings-from-our-ongoing-investigations/)
 [^sans20210226]: [https://www.sans.org/webcast/recording/citrix/118640/360305](https://www.sans.org/webcast/recording/citrix/118640/360305)
 [^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)
+[^blog20210503]: [https://r-dube.github.io/solarwinds/2021/05/03/us-attribution.html](https://r-dube.github.io/solarwinds/2021/05/03/us-attribution.html)

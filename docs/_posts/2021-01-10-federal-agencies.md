@@ -6,7 +6,7 @@ In this post, we document the list of US Federal agencies known to have been bre
 #### Dec 13, 2020 [^politico20201213] 
 * Department of Treasury
 * Department of Commerce
-  * National Telecommunications and Information Administration (NTIA)
+  * National Telecommunications and Information Administration (NTIA). As per [^krebs20210416], personnel at NTIA had some awareness of the SolarWinds hack as far back as Aug 13, 2020.
 
 #### Dec 14, 2020 [^politico20201214], [^nyt20201214], [^wapo20201214]
 * Department of Homeland Security (DHS)
@@ -34,7 +34,7 @@ In this post, we document the list of US Federal agencies known to have been bre
 
 #### Feb 2, 2021 [^reuters20210202]
 * Department of Agriculture
-  * National Finance Center. This breach also exploits SolarWinds but does not use SUNBURST; further, the attacker is of chinese origin and unrelated to UNC2452; as per ([^wired20210202], [^cyberscoop20210203]) it appears that the chinese attackers exploited SUPERNOVA to breach the National Finace Center.
+  * National Finance Center. This breach exploits SolarWinds Orion but does not use SUNBURST; further, the attacker is of chinese origin and unrelated to UNC2452; finally as per ([^wired20210202], [^cyberscoop20210203]) it appears that the chinese attackers exploited SUPERNOVA to breach the National Finace Center.
 
 #### Mar 29, 2021 [^ap20210329]
 * Cabinet Secretaries 
@@ -57,3 +57,4 @@ In this post, we document the list of US Federal agencies known to have been bre
 [^cyberscoop20210203]: [https://www.cyberscoop.com/solarwinds-orion-vulnerabilities-trustwave/](https://www.cyberscoop.com/solarwinds-orion-vulnerabilities-trustwave/)
 [^wired20210202]: [https://www.wired.com/story/solarwinds-hack-china-usda/](https://www.wired.com/story/solarwinds-hack-china-usda/)
 [^ap20210329]: [https://apnews.com/article/solarwinds-hack-email-top-dhs-officials-8bcd4a4eb3be1f8f98244766bae70395](https://apnews.com/article/solarwinds-hack-email-top-dhs-officials-8bcd4a4eb3be1f8f98244766bae70395)
+[^krebs20210416]: [https://krebsonsecurity.com/2021/04/did-someone-at-the-commerce-dept-find-a-solarwinds-backdoor-in-aug-2020/](https://krebsonsecurity.com/2021/04/did-someone-at-the-commerce-dept-find-a-solarwinds-backdoor-in-aug-2020/)

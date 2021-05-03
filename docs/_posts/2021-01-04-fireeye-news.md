@@ -61,8 +61,8 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 * Advocated for mandatory information sharing on discovering unauthorized intrusions to a central government agency and for separating such reporting from breach disclosures (that carry additional investigation and liability concerns)
 
 #### Mar 4, 2021 [^feye20210304]
-* Announced a new second-stage backdoor - SUNSHUTTLE - found in some organizations compromised by UNC2452
-* Linked SUNSHUTTLE to UNC2452, but left room for revaluation
+* Announced a new second-stage backdoor - SUNSHUTTLE - found in some organizations compromised by UNC2452; as per [^krebs20210416], SUNSHUTTLE was first discovered in Aug 2020 (also see [^blog20210110])
+* Linked SUNSHUTTLE to UNC2452, but left room for re-evaluation
 
 ### References
 [^feye20201208]: [https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
@@ -86,3 +86,5 @@ In this post, we will summarize news on the SolarWinds hack from FireEye's persp
 [^sans20210226]: [https://www.sans.org/webcast/recording/citrix/118640/360305](https://www.sans.org/webcast/recording/citrix/118640/360305)
 [^senate20210223]: [https://www.youtube.com/watch?v=IPozXgMqMag](https://www.youtube.com/watch?v=IPozXgMqMag)
 [^threatpost20210125]: [https://threatpost.com/breaking-down-joe-bidens-10b-cybersecurity-down-payment/163304/](https://threatpost.com/breaking-down-joe-bidens-10b-cybersecurity-down-payment/163304/)
+[^krebs20210416]: [https://krebsonsecurity.com/2021/04/did-someone-at-the-commerce-dept-find-a-solarwinds-backdoor-in-aug-2020/](https://krebsonsecurity.com/2021/04/did-someone-at-the-commerce-dept-find-a-solarwinds-backdoor-in-aug-2020/)
+[^blog20210110]: [https://r-dube.github.io/solarwinds/2021/01/10/federal-agencies.html](https://r-dube.github.io/solarwinds/2021/01/10/federal-agencies.html)
