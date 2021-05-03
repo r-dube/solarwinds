@@ -1,25 +1,25 @@
 ---
 title: US Government's attribution for the SolarWinds hacks
 ---
-In this post, we will summarize the US Government's attribution for the SolarWinds Hack based on the fact-sheet [^whitehouse20210415] (further summarized in [^nyt20210415])
+In this post, we will summarize the US Government's attribution for the SolarWinds Hack based on information released by the US government and interpreted by third-parties.
 
-#### UNC2452 = APT29 
-The fact-sheet released by the white house attributes the SolarWinds hack to APT29. In other words, UNC2452 = APT29. However, the the fact-sheet does not disclose the specific clues that the US government used to link APT29 to the SolarWinds hack.
+### UNC2452 is APT29 
+The fact-sheet released by the white house [^whitehouse20210415] (further summarized in [^nyt20210415]) attributes the SolarWinds hack to APT29. In other words, UNC2452 is the same APT29. However, the fact-sheet does not disclose the specific clues that the US government used to link APT29 to the SolarWinds hack.
 
-#### APT29 = Division of SVR
+### APT29 is a division of SVR
 The same fact-sheet indicates that APT29 is a divions of the Russian Foreign Intelligence Service abbreviated as SVR.
 
-#### How did APT29 do it?
+### How did APT29 do it?
 The US National Security Agence (NSA), CISA (Cybersecurity and Infrastructure Security Agence) and the Federal Bureau of Inviestigation (FBI) [^fbi20210415-1] indicated that APT29 (on behalf of SVR) has been actively using vulnerabilities in five different remote access and remote collaboration software. 
 
 The timing of the NSA/CISA/FBI statement - coinciding with the release of the fact-sheet - suggests that US government believes that one or more of these vulnerabilities were used in the intial compromise of SolarWinds.
 
-[^krebs20210416] interprets the NSA/CISC/FBI statement as evidence that APT29 used one of the vulnerabilities listed (in VMware's Workspace One software) as part of the Solarwinds hack. However, the wording of the statement and its interpretation in [^krebs20210416] leaves room for both possibilities - that the vulnerability was used to compromise SolarWinds or that the vulnerability was used in addition to a compromised SolarWinds Orion against Orion customers.
+[^krebs20210416] also interprets the NSA/CISC/FBI statement as evidence that APT29 used one of the vulnerabilities listed (in VMware's Workspace One software) as part of the Solarwinds hack. However, the wording of the statement and its interpretation in [^krebs20210416] leaves room for both possibilities - that the vulnerability was used to compromise SolarWinds or that the vulnerability was used in addition to a compromised SolarWinds Orion against Orion customers.
 
-[^fbi20210415-2], [^crn20210415] contain additional information on the vulnerable software. 
+[^fbi20210415-2], [^crn20210415] contain additional information on the vulnerable software exploited by APT29. 
 
-#### SVR's past actions
-The fact-sheet also blames the Russian government (but not APT29 directly) for attempted interference in 2020 US presidential election. Previously, SVR is reported to have participated in election interference in the 2016 US presidential election along with other formal and infornal agencies of the Russian government [^wiki2016].
+### SVR's past actions
+The fact-sheet also blames the Russian government (but not APT29 directly) for attempted interference in the 2020 US presidential election. Previously, SVR is reported to have participated in election interference in the 2016 US presidential election along with other formal and infornal agencies of the Russian government [^wiki2016].
 
 ### References 
 [^nyt20210415]: [https://www.nytimes.com/2021/04/15/world/europe/us-russia-sanctions.htm](https://www.nytimes.com/2021/04/15/world/europe/us-russia-sanctions.htm)
